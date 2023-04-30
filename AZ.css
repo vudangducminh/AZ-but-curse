@@ -1,0 +1,57 @@
+body {
+    background-color: green;
+    text-align: center;
+}
+#design {
+    display: flex;
+    text-align: center;
+}
+
+#AZmaze table {
+    border-collapse: collapse;
+    font-size: 150%;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#AZmaze table td {
+    background-color: white;
+    width: 3px;
+    height: 3px;
+    border: 0px solid black;
+}
+
+#Score_p1 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 120px;
+    height: 30px;
+    font-size: 150%;
+    text-align: center;
+    background-color:blue;
+    color: black;
+    font-weight: bolder;
+    border-radius: 20px 20px 20px 20px;
+}
+#Score_p2 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 120px;
+    height: 30px;
+    font-size: 150%;
+    text-align: center;
+    background-color:red;
+    color: black;
+    font-weight: bolder;
+    border-radius: 20px 20px 20px 20px;
+}
+button {
+    width: 120px;
+    height: 30px;
+    background-color:white;
+    color: black;
+    font-weight: bolder;
+    border-radius: 20px 20px 20px 20px;
+}
+
